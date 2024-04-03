@@ -1,7 +1,7 @@
 from IRS_Mortality.IRS_Mortality import IRS_Mortality
 
 # Set the required calc year
-calc_year = 2020
+calc_year = 2030
 
 # Instantiate IRS Table.
 IRS_Mortality_O = IRS_Mortality(calc_year)
