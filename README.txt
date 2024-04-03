@@ -2,7 +2,7 @@ IRS Mortality Package
 ---------------------
 
 This package is designed to produce IRS mortality rates for a given calculation year. This package replicates the "IRC 430-417e table development.xlsx" workbook. 
-For info this workbook can be found at ./Data/Source Workbook/IRC 430-417e table development.xlsx although data is not directly pulled from it.
+For info this workbook can be found at https://mantlehosting.sharepoint.com/:x:/r/sites/MantleUS/Shared%20Documents/EY/Mortality/IRC%20430-417e%20table%20development.xlsx?d=w4d92d84e52934a73b721f374602a3e5c&csf=1&web=1&e=E9AeFu.
 
 If the IRS have published their rates for the given calculation year, the published rates are returned, otherwise they are calculated. 
 
