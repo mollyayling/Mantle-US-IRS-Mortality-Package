@@ -28,7 +28,7 @@ This data can all be found within the ./Data folder as csv files. The published 
 Tables Package
 --------------------
 
-Contains the classes for each type of data table used in the calculation. Each class is a sub-class of the table class.
+The ./Tables package contains the classes for each type of data table used in the calculation. Each class is a sub-class of the table class.
 
 The improvement table class extends the improvement rates to the required year and age by extrapolating using the nearest rates in the table (in line with the workbook's functionality). 
 
